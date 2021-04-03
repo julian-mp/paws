@@ -1,0 +1,11 @@
+.header {
+    background: #2979ff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header > * {
+    margin: 0px 10px;
+    color: white;
+}

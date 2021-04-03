@@ -1,0 +1,15 @@
+.box {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #2979ff;
+    font-weight: bold;
+    width: 150px;
+    height: 150px;
+    text-transform: capitalize;
+}
+
+.box:hover {
+    text-decoration: underline;
+}
